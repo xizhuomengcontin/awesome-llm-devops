@@ -74,6 +74,7 @@ Checked titles are those where products are considered addressing the issue (at 
 - [ ] Infrastructure alerts (automated)
 - [ ] Infrastructure optimization
     - 🔐🆓📦👨‍💻🖥️ [Amazon Q](https://aws.amazon.com/fr/q/)
+    - 🔓🆓📦🖥️ [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with LLM-powered operations and intelligent workload optimization
 - [ ] Infrastructure exploration (i.e: cost analysis, network description etc...)
     - 🔐🆓📦👨‍💻🖥️ [Amazon Q](https://aws.amazon.com/fr/q/)
     - 🔓💸📦#️⃣ [OpsTower.ai](https://github.com/opstower-ai/llm-opstower)
