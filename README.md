@@ -20,6 +20,7 @@ Checked titles are those where products are considered addressing the issue (at 
 - #️⃣ CLI interface / 🖥️ browser interface / 👨‍💻 IDE interface
 
 ### Software productivity
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 
 - [x] Code & configuration writing, suggestion or explanation (chat-based / cli-based / auto-complete)
     - 🔐💶🗄🖥️ [ChatGPT](https://chat.openai.com/)
